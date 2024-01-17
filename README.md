@@ -15,10 +15,10 @@ nnabla (Neural Network Libraries by Sony)
 ## Construido con 🛠️
 _las herramientas utilizadas para la creacion del proyecto son
 
-* [PYTHON]([https://angular.io/](https://go.dev/)) - Lenguaje de Programación Utilizado
-* [COLAB]((https://colab.research.google.com/?hl=es)) - Entorno de desarrollo
+* [PYTHON](https://www.python.org/) - Lenguaje de Programación Utilizado
+* [COLAB](https://colab.research.google.com/?hl=es) - Entorno de desarrollo
 * [OpenCV](https://opencv.org/) - Biblioteca de Visión por Computadora
-* [nnabla]((https://nnabla.org/)) - Biblioteca de Redes Neuronales de Sony
+* [nnabla](https://nnabla.org/) - Biblioteca de Redes Neuronales de Sony
 
 
 
